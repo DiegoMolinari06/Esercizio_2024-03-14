@@ -6,6 +6,21 @@
 
 #define BLOCK_DIM 1024
 
+/*!
+     \fn main
+     \brief copia dei dati del file nella pipe
+     \var file 
+     \brief file contenente i dati da scrivere nella pipe
+     \var buffer
+     \brief vettore contenente i dati da scrivere nella pipe
+     \var fifo
+     \brief contenuto dei dati presi dal file usata come pipe
+     \var n
+     \brief lunghezza del buffer
+     \var argv
+     \brief vettore con gli argomenti della riga di comando
+*/
+
 int main(int argc, char* argv[]){
      FILE* file;
      unsigned char buffer[BLOCK_DIM];
