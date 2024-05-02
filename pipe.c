@@ -4,7 +4,7 @@
 #include <sys/wait.h>
 
 #define BLOCK_DIM 1024
-#define N_DOMANDE 5
+#define N_DOMANDE 9
 
 int main(int argc, char* argv[]){
      FILE *file;
