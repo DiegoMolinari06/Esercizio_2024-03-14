@@ -6,3 +6,4 @@
 6) Quando un cavo è bilanciato?
 7) Cosa è una DI Box?
 8) Cosa sono le matrici in un mixer audio?
+9) Cosa è una Stage-Box?
