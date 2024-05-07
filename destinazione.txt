@@ -1,19 +1,7 @@
-1) Che tipo di mixer è il Midas M32 Live?
-2) Quanti canali ha lo standard DMX?
-3) Cosa è il Gain nel mondo dell'audio?
-4) Quali sono le differenze tra un cavo XLR e un cavo DMX?
-5) Cosa cambia tra una cassa attiva e passiva?
-6) Quando un cavo è bilanciato?
-7) Cosa è una DI Box?
-8) Cosa sono le matrici in un mixer audio?
-9) Cosa è una Stage-Box?
+1. Meglio telecomunicazioni o progettazione?
+2. Ti piace telecomunicazioni?
+3. ti piace progettazione?
 
-Mixer Digitale
-512
-Volume Primitivo
-Impedenza
-Tipo di Alimentazione
-Quando è formato da 3 fili
-Strumento che trasforma l'audio da sbilanciato a bilanciato
-Tipi di Output
-Interfaccia di Input/Output
+Progettazione
+Abbastanza
+Molto
